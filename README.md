@@ -86,26 +86,6 @@ Due to licensing restrictions, the original dataset cannot be shared publicly. H
 
 For further details, please refer to the **full thesis document** in `Master_Thesis.pdf`.
 
----
 
-## Reference 
-
-```bibtex
-@misc{georgenthum2025enhancingsurgicaldocumentationmultimodal,
-  title     = {Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI},
-  author    = {Hugo Georgenthum and Cristian Cosentino and Fabrizio Marozzo and Pietro Liò},
-  year      = {2025},
-  eprint    = {2504.19918},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url       = {https://arxiv.org/abs/2504.19918}
-}
-```
----
-📌 **Authors**:  
-Hugo Georgenthum  
-Supervisors: Pietro Lio, Cristian Cosentino, Mishra Siddhartha  
-📅 **March 18, 2025**  
-📍 **University of Cambridge**
 
 
